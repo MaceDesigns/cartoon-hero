@@ -12,7 +12,7 @@ header{
     text-align: center;
     background-color: rgb(255, 255, 255);
     padding-top: 63px;
-    padding-bottom: 281px;
+    padding-bottom: 250px;
 }
 
 h1, h2{ 
@@ -20,6 +20,9 @@ h1, h2{
     font-weight: 700;
     font-style: italic;
 }
+
+/* header styles */
+
 
 header h1{
     color: rgb(230, 0, 18);
