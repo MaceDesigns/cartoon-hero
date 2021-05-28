@@ -22,7 +22,6 @@ h1, h2{
 }
 
 h2{
-    color: rgb(84, 30, 15);
     margin: 93px 0px 15px;
     font-size: 35px;
 }
@@ -58,7 +57,7 @@ main img{
 }
 
 a{
-    color: rgb(84, 30, 15);
+    color: rgb(58, 19, 8);
 }
 a:hover{
     color:rgb(230, 0, 18);
@@ -76,16 +75,12 @@ footer p{
     margin: 0;
 }
 
-footer a{
-    color: white
-}
 
 footer a:hover{
-    opacity: .5;
     background-color:transparent;
 }
 p.caption{
-    color: grey;
+    color: rgb(87, 84, 104)    ;
     font-style: italic;
     margin-top: 0;
 }
