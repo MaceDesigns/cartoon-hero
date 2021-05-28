@@ -11,8 +11,8 @@ body{
 header{ 
     text-align: center;
     background-color: rgb(255, 255, 255);
-    padding-top: 63px;
-    padding-bottom: 175px;
+    padding-top: 175px;
+    padding-bottom: 138px;
 }
 
 h1, h2{ 
@@ -23,7 +23,7 @@ h1, h2{
 
 h2{
     color: rgb(84, 30, 15);
-    margin: 40px 0px 10px;
+    margin: 93px 0px 15px;
     font-size: 35px;
 }
 
@@ -88,4 +88,8 @@ p.caption{
     color: grey;
     font-style: italic;
     margin-top: 0;
+}
+
+p{
+    margin: 80px 0px 0px;
 }
